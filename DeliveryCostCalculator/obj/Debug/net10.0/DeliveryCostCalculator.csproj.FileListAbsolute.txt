@@ -1,0 +1,14 @@
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\obj\Debug\net10.0\DeliveryCostCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\obj\Debug\net10.0\DeliveryCostCalculator.AssemblyInfoInputs.cache
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\obj\Debug\net10.0\DeliveryCostCalculator.AssemblyInfo.cs
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\obj\Debug\net10.0\DeliveryCostCalculator.csproj.CoreCompileInputs.cache
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\bin\Debug\net10.0\DeliveryCostCalculator.exe
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\bin\Debug\net10.0\DeliveryCostCalculator.deps.json
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\bin\Debug\net10.0\DeliveryCostCalculator.runtimeconfig.json
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\bin\Debug\net10.0\DeliveryCostCalculator.dll
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\bin\Debug\net10.0\DeliveryCostCalculator.pdb
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\obj\Debug\net10.0\DeliveryCostCalculator.dll
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\obj\Debug\net10.0\refint\DeliveryCostCalculator.dll
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\obj\Debug\net10.0\DeliveryCostCalculator.pdb
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\obj\Debug\net10.0\DeliveryCostCalculator.genruntimeconfig.cache
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1.csproj\DeliveryCostCalculator\obj\Debug\net10.0\ref\DeliveryCostCalculator.dll
