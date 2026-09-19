@@ -1,0 +1,15 @@
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\bin\Debug\net10.0\FunctionalTicketCalculator.exe
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\bin\Debug\net10.0\FunctionalTicketCalculator.deps.json
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\bin\Debug\net10.0\FunctionalTicketCalculator.runtimeconfig.json
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\bin\Debug\net10.0\FunctionalTicketCalculator.dll
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\bin\Debug\net10.0\FunctionalTicketCalculator.pdb
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.AssemblyInfoInputs.cache
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.AssemblyInfo.cs
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.csproj.CoreCompileInputs.cache
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.sourcelink.json
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.dll
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\obj\Debug\net10.0\refint\FunctionalTicketCalculator.dll
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.pdb
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\obj\Debug\net10.0\FunctionalTicketCalculator.genruntimeconfig.cache
+C:\Users\TAMERLAN\OneDrive\Документы\projects\IfpAssignment1\FunctionalTicketCalculator\obj\Debug\net10.0\ref\FunctionalTicketCalculator.dll
